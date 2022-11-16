@@ -1,0 +1,6 @@
+APPLICATION_NAME=I Am Legion Reborn - AutoUpdate
+DOWNLOAD_URL=https://github.com/DocHaskins/IALR_AutoUpdate/blob/0cf677c1201bd39a2dbcbc2691928339fd16174a/Application/ialr_1.1_installer.exe
+VERSION_URL=https://github.com/DocHaskins/IALR_AutoUpdate/blob/cb28563984a06fe3b186e0ebef703c38108667c7/version.txt
+FILE_TO_RUN=DL2_Launcher.lnk
+DOWNLOAD_VERSION_FILE=true
+FORCE_UPDATE=true
